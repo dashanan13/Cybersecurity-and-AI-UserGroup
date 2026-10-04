@@ -1,0 +1,11 @@
+What if your Windows machine could become your personal AI development lab?
+
+In this hands-on session, we’ll explore the new Microsoft Foundry experience on Windows and see how Foundry Local brings AI models directly to your machine—while Microsoft Foundry provides the path from local experimentation to production-scale AI applications.
+
+We’ll go beyond slides and build something live: run a model locally, interact with it from an application, explore what changes when AI moves from the cloud to your laptop, and then connect that experience to the broader Microsoft Foundry platform.
+
+You’ll see the practical side of local AI: privacy, latency, offline capabilities, developer experience, model selection, and when to use local inference versus cloud-hosted models.
+
+The goal: by the end of the session, you’ll have seen an AI application go from your Windows machine → local model → Microsoft Foundry → production-ready architecture.
+
+Come for the local AI. Stay for the “wait… my laptop can actually do that?” moment.

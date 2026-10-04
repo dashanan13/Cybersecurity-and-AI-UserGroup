@@ -1,0 +1,23 @@
+AI Without Borders? Sovereignty, Security & Compliance in the Age of AI
+
+AI is moving fast, but where your data lives, where your AI runs, and who ultimately controls it matter more than ever.
+
+In this session, we’ll unpack the increasingly important intersection of sovereign cloud, secure data residency, Norwegian security requirements, and the EU AI Act. Rather than diving into legislation for legislation’s sake, we’ll focus on what these concepts actually mean for organizations building and adopting AI.
+
+We’ll explore questions such as:
+
+What does “sovereign” really mean when it comes to cloud and AI?
+
+Where does your data go when you use AI services, and why does residency matter?
+
+What should organizations understand about the Norwegian Security Act?
+
+How does the EU AI Act affect the way we build, deploy, and govern AI?
+
+How do security, sovereignty, privacy, and AI regulation fit together?
+
+What should you be asking your cloud and AI providers before putting sensitive workloads into production?
+
+You won’t leave with a checklist of regulations to memorize. You’ll leave with a clearer mental model for evaluating AI solutions, understanding the risks and responsibilities involved, and having better conversations with security, legal, cloud, and technology teams.
+
+The goal is simple: to help you make better decisions about where and how your organization uses AI—without losing sight of security, sovereignty, or trust.
