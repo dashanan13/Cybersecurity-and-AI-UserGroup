@@ -30,7 +30,7 @@ This exclusive community offers a unique opportunity to expand your professional
 </tr>
 <tr>
 <td>View previous meetup recordings</td>
-<td><a href="https://www.youtube.com/@yggdrasil13">https://www.youtube.com/@yggdrasil13</a></td>
+<td><a href="https://www.youtube.com/@yggdrasil13">[https://www.youtube.com/@yggdrasil13](https://www.youtube.com/@CybersecurityandAIUserGroup)</a></td>
 </tr>
 <tr>
 <td>Connect with us on LinkedIn Group</td>
